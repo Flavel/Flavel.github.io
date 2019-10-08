@@ -10,7 +10,7 @@
 	color : blue;
 	background-color: red;
 }
-.t :  onmouseover {
+.t : hover {
 	color : red;
 	background-color: blue;
 }
