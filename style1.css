@@ -1,0 +1,24 @@
+#h3 {
+	color : red;
+	background-color: green;
+}
+#h4 {
+	color : green;
+	background-color: blue;
+}
+#h5 {
+	color : blue;
+	background-color: red;
+}
+.t :  onmouseover {
+	color : red;
+	background-color: blue;
+}
+.u {
+	font-size: 14px;
+	color : red;
+}
+.o{
+	font-size: 10px;
+	color : blue;
+}
